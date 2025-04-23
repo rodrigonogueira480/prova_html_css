@@ -8,3 +8,12 @@ h2 {
     margin: 20px 0;
     text-align: center; 
 }
+.card-title {
+    text-align: center; 
+}
+.card {
+    margin: 30px; 
+}
+.card-text {
+    text-align: center; 
+} 
